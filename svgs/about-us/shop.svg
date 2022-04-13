@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="102" height="102" viewBox="0 0 102 102">
+    <g>
+        <g transform="translate(-1259 -662) translate(-9.638 -2.638)">
+            <circle cx="51" cy="51" r="51" fill="#fa0e58" transform="translate(1268.638 664.638)"/>
+        </g>
+        <text fill="#fff" font-family="BuenosAires-Bold, Buenos Aires" font-size="24px" font-weight="700" transform="translate(-1259 -662) translate(1310 711)">
+            <tspan x="-30.972" y="0">SHOP</tspan><tspan x="-29.232" y="22">NOW</tspan>
+        </text>
+    </g>
+</svg>

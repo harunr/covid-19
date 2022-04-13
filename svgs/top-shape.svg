@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="57" viewBox="0 0 1400 57">
+    <defs>
+        <linearGradient id="ojh4cerera" x1=".5" x2=".5" y2="1" gradientUnits="objectBoundingBox">
+            <stop offset="0" stop-color="#f8c8da" stop-opacity="0"/>
+            <stop offset="1" stop-color="#fcd"/>
+        </linearGradient>
+    </defs>
+    <path fill="url(#ojh4cerera)" d="M0 0H1400V57H0z"/>
+</svg>

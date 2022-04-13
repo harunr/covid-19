@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="180" height="76.91" viewBox="0 0 180 76.91">
+    <defs>
+        <style>
+            .cls-1{fill:none;stroke:#e7365b;stroke-width:2px}
+        </style>
+    </defs>
+    <g id="Group_477" transform="translate(-553 -1535.487)">
+        <g id="Group_476" transform="rotate(180 671.5 1153.45)">
+            <path id="Path_74" d="M700 720v31.917" class="cls-1" transform="translate(0 16.38)"/>
+            <path id="Path_75" d="M684.129 763.738l14.924 14.924 14.924-14.924" class="cls-1" transform="translate(.947 -8.662)"/>
+        </g>
+        <text id="Back_to_the_top" fill="#fa0e58" font-family="BuenosAires-Regular, Buenos Aires" font-size="26px" transform="translate(643 1605.397)">
+            <tspan x="-89.856" y="0">Back to the top</tspan>
+        </text>
+    </g>
+</svg>
